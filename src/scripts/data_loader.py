@@ -11,5 +11,5 @@ def load_data(file_path):
 
 # Example usage
 if __name__ == "__main__":
-    data = load_data('../data/Week2_challange_data_source(CSV).csv')
+    data = load_data('Week2_challange_data_source(CSV).csv')
     print(data.head())
